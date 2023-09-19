@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idontknowxddd&label=Profile%20views&color=0e75b6&style=flat" alt="idontknowxddd" /> </p>
 
+![Exit text](url):https://media.giphy.com/media/26ufbXtZVCp1su6kw/giphy.gif
+
 - 🌱 I’m currently learning **java and css**
 
 - ⚡ Fun fact **Šli dva prostřední upadl**
