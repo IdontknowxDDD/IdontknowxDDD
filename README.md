@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idontknowxddd&label=Profile%20views&color=0e75b6&style=flat" alt="idontknowxddd" /> </p>
 
 ![](https://media.giphy.com/media/26ufbXtZVCp1su6kw/giphy.gif)
-
+![](https://media.giphy.com/media/jXgqJ6g901rstvbIx1/giphy.gif)
 - 🌱 I’m currently learning **java and css**
 
 - ⚡ Fun fact **Šli dva prostřední upadl**
